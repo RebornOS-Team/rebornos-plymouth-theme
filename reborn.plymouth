@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=reborn
+Description=RebornOS theme inspired by KDE Breeze
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/reborn
+ScriptFile=/usr/share/plymouth/themes/reborn/script
